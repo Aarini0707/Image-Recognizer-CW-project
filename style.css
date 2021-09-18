@@ -1,0 +1,18 @@
+.heading{
+    width: 70%;
+    font-size: 25px;
+}
+
+.objects_list,#name_of_object,#accuracy_of_object{
+    color: #e83838;
+}
+
+body{
+    background-color: #52a848;
+}
+
+#camera,#result{
+border: 2px dotted palevioletred;
+width: 350px;
+height: 300px;
+}
